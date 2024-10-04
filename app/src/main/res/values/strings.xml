@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">OffNews</string>
+    <string name="not_connected">⚠️ You aren’t connected to the internet</string>
+
+    <!--    HomeScreen-->
+    <string name="news_image_content_description">News image</string>
+    <string name="search_icon_content_description">Search a news</string>
+    <!--    Home Loading Screen-->
+    <string name="loading_img_content_description">Loading image</string>
+
+    <!--    news item card-->
+    <string name="news_item_card_arrow_content_description">Open news article</string>
+
+    <!--    DetailsScreen-->
+    <string name="remove_bookmark_content_description">Remove bookmark</string>
+    <string name="add_bookmark_content_description">Add bookmark</string>
+    <string name="back_button_content_description">Navigate back</string>
+
+    <!--    SearchScreen-->
+    <string name="recent_search_label">Recent Search</string>
+    <string name="search_placeholder">Search</string>
+    <string name="clear_search_query_content_description">Clear search query</string>
+    <string name="remove_recent_search_content_description">Remove recent search</string>
+
+    <!--    BookmarkErrorScreen-->
+    <string name="no_bookmarks_image_content_description">Illustration of an empty bookmark list</string>
+    <string name="error_image_content_description">Error image"</string>>
+
+<!--    Tab type-->
+    <string name="tab_title_home">Home</string>"
+    <string name="tab_title_bookmark">Bookmark</string>
+    <string name="tab_title_search">Search</string>
+</resources>

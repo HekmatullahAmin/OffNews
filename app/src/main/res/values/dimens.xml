@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    TODO: Stick to a consistent naming pattern (e.g., component_property_value)-->
+    <!--    Paddings-->
+    <dimen name="app_bar_content_padding">10dp</dimen>
+    <dimen name="small_padding">10dp</dimen>
+    <dimen name="medium_padding">15dp</dimen>
+    <dimen name="large_padding">30dp</dimen>
+    <dimen name="back_button_outside_padding">10dp</dimen>
+    <dimen name="news_item_card_horizontal_padding">20dp</dimen>
+    <dimen name="icon_button_inner_padding">10dp</dimen>
+    <dimen name="clear_icon_button_inner_padding">5dp</dimen>
+    <dimen name="remove_searched_news_icon_button_inner_padding">4dp</dimen>
+    <dimen name="drawer_padding_content">12dp</dimen>
+    <dimen name="horizontal_padding">100dp</dimen>
+    <dimen name="news_item_card_end_padding">10dp</dimen>
+    <dimen name="screen_start_padding">10dp</dimen>
+    <dimen name="screen_end_padding">10dp</dimen>
+    <dimen name="screen_padding">10dp</dimen>
+    <dimen name="news_item_card_content_end_padding">20dp</dimen>
+
+    <!--    Card Dimensions-->
+    <dimen name="featured_card_height">250dp</dimen>
+    <dimen name="news_item_card_height">110dp</dimen>
+    <dimen name="news_item_card_width">80dp</dimen>
+    <dimen name="loading_featured_card_source_name_width">100dp</dimen>
+    <dimen name="loading_featured_card_title_name_width">250dp</dimen>
+    <dimen name="loading_news_item_card_title_width">200dp</dimen>
+    <dimen name="loading_news_item_card_source_name_width">20dp</dimen>
+    <dimen name="loading_news_item_card_date_width">100dp</dimen>
+    <dimen name="error_image_card_width_size">300dp</dimen>
+    <dimen name="error_image_card_height_size">200dp</dimen>
+
+    <!--    Icon sizes-->
+    <dimen name="clear_search_icon_size">25dp</dimen>
+    <dimen name="remove_searched_news_icon_size">20dp</dimen>
+    <dimen name="bookmark_error_image_size">150dp</dimen>
+
+<!--    Spacing-->
+    <dimen name="small_vertical_space">5dp</dimen>
+    <dimen name="medium_vertical_space">10dp</dimen>
+    <dimen name="bookmark_error_image_text_spacing">16dp</dimen>
+
+    <dimen name="news_item_card_icon_x_offset">3dp</dimen>
+    <dimen name="card_elevation">7dp</dimen>
+    <dimen name="card_top_end_corner">15dp</dimen>
+    <dimen name="news_item_card_image_top_corner">15dp</dimen>
+    <dimen name="drawer_width">240dp</dimen>
+    <dimen name="navigation_drawer_item_vertical_space">10dp</dimen>
+    <dimen name="horizontal_space">15dp</dimen>
+    <dimen name="details_news_content_card_top_end_corner">100dp</dimen>
+    <dimen name="bookmark_icon_card_x_offset">40dp</dimen>
+    <dimen name="above_half_screen_offset">100dp</dimen>
+    <dimen name="navigation_drawer_header_image_size">50dp</dimen>
+    <dimen name="search_icon_button_corner_radius">20dp</dimen>
+    <dimen name="error_image_corner_radius">10dp</dimen>
+
+</resources>
